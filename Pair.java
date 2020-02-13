@@ -1,5 +1,5 @@
 
-public class Pair<U, V> {
+public class Pair<U , V> {
 
 	public U first;
 
